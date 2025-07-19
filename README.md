@@ -31,8 +31,13 @@ This project was a collaborative effort where we learned, built, and grew as a t
 
 ## Developed By:
 Harshini
+
 Abinaya
+
 Arpita
+
 Bhashitha
+
 Harshitha
+
 
